@@ -5,6 +5,8 @@ apt upgrade -y
 apt install git -y
 apt install wget -y
 apt install curl -y
+apt install neofetch -y
+apt install figlet ruby -y
 apt install golang perl python3 python2 python3-pip nodejs npm -y
 
 mkdir -p /root/d
